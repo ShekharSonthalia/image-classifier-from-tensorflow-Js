@@ -1,0 +1,2 @@
+using tensorflow js and transfer learning to create a image classifier which can run on client side without being dependent on the server.
+It can run on mobile browsers, laptop or even chromium laptops.
